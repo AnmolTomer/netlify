@@ -6,7 +6,7 @@ Contents:
 
 - [Part 1: 🗺️ Netlify Edge](https://github.com/AnmolTomer/netlify/blob/part_1/part_1.md)
 - [Part 2: ⚒️ Netlify Build](https://github.com/AnmolTomer/netlify/blob/part_1/part_2.md)
-- [Part 3: 👩🏼‍💻 Netlify Dev]
+- [Part 3: 👩🏼‍💻 Netlify Dev](https://github.com/AnmolTomer/netlify/blob/part_1/part_3.md)
 - [Part 4: 🗒️ Netlify Forms]
 - [Part 5: 🆔 Netlify Identity]
 - [Part 6: ✍️ NetlifyCMS]
