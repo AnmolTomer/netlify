@@ -3,7 +3,7 @@ How to build and deploy websites using Netlify - A Comprehensive Tutorial by Fre
 
 Contents:
 
-- [Part 1: 🗺️ Netlify Edge]
+- [Part 1: 🗺️ Netlify Edge](https://github.com/AnmolTomer/netlify/blob/part_1/part_1.md)
 - [Part 2: ⚒️ Netlify Build]
 - [Part 3: 👩🏼‍💻 Netlify Dev]
 - [Part 4: 🗒️ Netlify Forms]
